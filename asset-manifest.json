@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ad1291e.css",
+    "main.js": "/static/js/main.7b795d56.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/stock.jpg": "/static/media/stock.95e32fe1c029c6ba24aa.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/product.jpg": "/static/media/product.695aae72fb966e746b70.jpg",
+    "static/media/xiaomi.jpg": "/static/media/xiaomi.6a8661a66c69f2e6e7d1.jpg",
+    "static/media/cad1.jpg": "/static/media/cad1.d875671c24f6184e0bb2.jpg",
+    "static/media/cad2.jpg": "/static/media/cad2.2df99ecd5443e974c779.jpg",
+    "static/media/accessories.jpg": "/static/media/accessories.9cc84a0b0194d3d22b25.jpg",
+    "static/media/electronics.png": "/static/media/electronics.cd1444678152456d2807.png",
+    "static/media/fashion.png": "/static/media/fashion.7111330ebeb41f132373.png",
+    "static/media/cad3.jpg": "/static/media/cad3.86e832fa8945df6ac8c9.jpg",
+    "static/media/groceries.png": "/static/media/groceries.40fbf72a6547b046d749.png",
+    "static/media/office.png": "/static/media/office.c9ac2963911b952f292f.png",
+    "static/media/bluetooth.jpg": "/static/media/bluetooth.0e1ec4ccd4477709146e.jpg",
+    "static/media/cad4.jpg": "/static/media/cad4.2aec4730f08c1ebe6586.jpg",
+    "static/media/health.png": "/static/media/health.501baf0ba7d937e2cab2.png",
+    "static/media/computing.png": "/static/media/computing.7d84302a347e0108c057.png",
+    "static/media/smart.jpg": "/static/media/smart.86b5b7e592536a23cd8c.jpg",
+    "static/media/phones.png": "/static/media/phones.84099544e2aee3701612.png",
+    "static/media/airpod.jpg": "/static/media/airpod.b2ecb0981f2263d06200.jpg",
+    "static/media/charger.jpg": "/static/media/charger.7f17f4140df4099b9865.jpg",
+    "index.html": "/index.html",
+    "main.7ad1291e.css.map": "/static/css/main.7ad1291e.css.map",
+    "main.7b795d56.js.map": "/static/js/main.7b795d56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad1291e.css",
+    "static/js/main.7b795d56.js"
+  ]
+}
